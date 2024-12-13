@@ -19,3 +19,7 @@ To use this program, follow these steps:
    Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Abdlruhmann/Binary-Search-Tree-Implementation.git
+   gcc -o main.c
+   ./bst_program
+
+
